@@ -1,0 +1,14 @@
+com/espe/project/main/Main.class
+com/espe/project/dao/AsignaturaDAO.class
+com/espe/project/model/Docente.class
+com/espe/project/controller/CarreraController.class
+com/espe/project/utils/Validaciones.class
+com/espe/project/model/Carrera.class
+com/espe/project/controller/AsignaturaController.class
+com/espe/project/controller/DocenteController.class
+com/espe/project/utils/Db.class
+com/espe/project/controller/ErrorHandlerServlet.class
+com/espe/project/dao/CarreraDAO.class
+com/espe/project/dao/DocenteDAO.class
+com/espe/project/utils/Errores.class
+com/espe/project/model/Asignatura.class
